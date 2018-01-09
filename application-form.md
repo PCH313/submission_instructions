@@ -17,47 +17,46 @@ This form is written in [**GitHub Flavored Markdown**](https://guides.github.com
 Please, [**edit** this file](https://help.github.com/articles/editing-files-in-your-repository) to fill in the fields with your data. You can commit your changes directly to the `master` branch.
 
 - First Name:
-
+Pauline
 
 - Last Name:
-
+Chevalier
 
 - Gender
-  - [ ] Female
+  - [x] Female
   - [ ] Male
 
 
 - Date of Birth:
-
+20/07/1990
 
 - Email:
-
+p.chevalier@utwente.nl
 
 - I would like to apply for travel grant
   - [ ] Yes
-  - [ ] No
+  - [x] No
 
 
 - IEEE Membership (required to apply for travel grant and access discounted registration fee):
-
+93296044
 
 - Affiliation:
-
+University of Twente
 
 - Current position:
-
+PostDoc
 
 - Specify your supervisor(s)
 
   | Name | Affiliation |
-  | :---: | :---: |
-  | ... | ... |
-  | ... | ... |
+  | Vanessa Evers | University of Twente |
+  | Dirk Heylen | University of Twente |
 
 
 - Have you participated to a previous edition of VVV School?
   - [ ] Yes, in year:
-  - [ ] No
+  - [x] No
   
   
 - Supporting documents (check all that apply)
